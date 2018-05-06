@@ -1,0 +1,4 @@
+
+$ ng new ng4fbbootstrap
+$ npm install firebase angularfire2 --save
+Commit..
