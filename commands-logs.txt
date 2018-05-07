@@ -5,3 +5,6 @@ Commit..
 
 $ ng g component views/app-navbar
 Commit..
+
+$ npm install --save @ng-bootstrap/ng-bootstrap
+Commit..
